@@ -1,11 +1,19 @@
-# Learning GitHub
+# Learning Git & GitHub
 
-Day 1:
-I created my first repository and learned how commits work.
+This repository documents my structured learning journey in Git and GitHub fundamentals.
 
-Day 2:
-I now understand that a commit is a saved snapshot of changes.
+---
 
-Day 4:
-I am now working on a separate branch.
-This does NOT affect main yet.
+## Covered Topics
+
+- Creating repositories  
+- Writing clean commits  
+- Understanding version history  
+- Branching and merging workflows  
+- Pull requests  
+
+---
+
+## Purpose
+
+To build strong version control foundations through hands-on practice and disciplined workflow.
